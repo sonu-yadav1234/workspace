@@ -3,7 +3,7 @@
 <body>
 
 <h1>My first PHP page! 
-welcome! I love my mom dad
+welcome! I hate pakistan
 </h1>
 
 <?php
